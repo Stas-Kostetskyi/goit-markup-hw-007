@@ -173,7 +173,7 @@ a {
   padding-bottom: 200px;
   background-color: var(--cap-footer-background-color);
   color: var(--basic-white-text);
-  background-image: linear-gradient(to right, var(--background-gradient-hero), var(--background-gradient-hero)), url(/images/hero.jpg);
+  background-image: linear-gradient(to right, var(--background-gradient-hero), var(--background-gradient-hero)), url(../../images/hero.jpg);
 }
 .hero_tittle {
   margin-top: 0px;
@@ -906,14 +906,14 @@ a {
 }
 
 .features--icon-antena::before {
-  background-image: url(/images/antenna.svg);
+  background-image: url(../../images/antenna.svg);
 }
 .features--icon-clock::before {
-  background-image: url(/images/clock.svg);
+  background-image: url(../../images/clock.svg);
 }
 .features--icon-diagramm::before {
-  background-image: url(/images/diagram.svg);
+  background-image: url(../../images/diagram.svg);
 }
 .features--icon-astronaut::before {
-  background-image: url(/images/astronaut.svg);
+  background-image: url(../../images/astronaut.svg);
 }/*# sourceMappingURL=main.css.map */
